@@ -1,0 +1,24 @@
+
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #9AD0EC;
+    color: black;
+
+}
+
+#project{
+    background-color: #9AD0EC;
+}
+
+section{
+    padding-top: 4rem;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
